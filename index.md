@@ -1,4 +1,4 @@
-## Welcome to Software Bill of MAterials SBOM information site
+## Welcome to Software Bill of Materials SBOM information site
 
 This site is maintained by SBOM working group. 
 
