@@ -13,6 +13,6 @@ This site is maintained by SBOM working group.
 
 
 
-#### SBOM automation
+### SBOM automation
 
 
